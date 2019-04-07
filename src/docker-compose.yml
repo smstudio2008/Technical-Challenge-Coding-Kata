@@ -1,0 +1,9 @@
+version: '3.6'
+
+services:
+  angular:
+    hostname: localhost
+    container_name: roman-converter
+    build: .
+    ports:
+      - 80:80
