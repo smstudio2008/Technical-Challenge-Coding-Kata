@@ -1,6 +1,6 @@
 # Coding Kata - Roman Numerals - Angular
 
-![Alt text](https://fontmeme.com/images/BBC-Logo.jpg)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_logo_%28pre97%29.svg/1280px-BBC_logo_%28pre97%29.svg.png)
 
 ## Introduction
 
